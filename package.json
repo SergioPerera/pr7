@@ -1,0 +1,37 @@
+{
+  "name": "pr7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioPerera/pr7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioPerera/pr7/issues"
+  },
+  "homepage": "https://github.com/SergioPerera/pr7#readme",
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@types/prompt-sync": "^4.2.0",
+    "chai": "^4.3.7",
+    "coveralls": "^3.1.1",
+    "eslint-config-prettier": "^8.8.0",
+    "mocha": "^10.2.0",
+    "nyc": "^15.1.0",
+    "prettier": "^2.8.6",
+    "ts-node": "^10.9.1",
+    "tsc-watch": "^6.0.0",
+    "typedoc": "^0.23.28"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
