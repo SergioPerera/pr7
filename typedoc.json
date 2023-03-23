@@ -1,6 +1,9 @@
 {
     "entryPoints": [
-        "./src/index.ts"
+        "./src/magazine.ts",
+        "./src/subscriber.ts",
+        "./src/observable.ts",
+        "./src/observer.ts",
     ],
     "out": "./docs",
 }
