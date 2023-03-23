@@ -13,6 +13,7 @@ jobs:
   coverellas:
 
     runs-on: ubuntu-latest
+  
   steps:
     - name: Cloning repo
       uses: actions/checkout@v3
